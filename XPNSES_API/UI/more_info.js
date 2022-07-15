@@ -1,0 +1,1 @@
+const more_info={template: `<h1>More Info</h1>`}

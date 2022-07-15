@@ -1,0 +1,4 @@
+//Added from: https://code.visualstudio.com/docs/python/environments
+
+//"python.terminal.activateEnvironment": false,
+//"python.defaultInterpreterPath": "/home/python39/python"
