@@ -99,11 +99,11 @@ WSGI_APPLICATION = 'XPNSES_API.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'xpnsesdb',
+        'NAME': '',
         'USER' : 'postgres',
-        'PASSWORD' : 'arbol&15J',
+        'PASSWORD' : '',
         'HOST' : 'localhost',
-        'PORT' : '5432'
+        'PORT' : ''
     }
 }
 
